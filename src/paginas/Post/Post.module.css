@@ -1,0 +1,22 @@
+.tituloOutrosPosts {
+    color: #444444;
+    font-size: 2.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-family: var(--fonte-secundaria);
+    margin-left: 3rem;
+}
+
+.postsRecomendados {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.containerOutrosPosts {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 2rem;
+}
